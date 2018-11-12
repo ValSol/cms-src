@@ -1,0 +1,6 @@
+{
+  "name": "ContentSideNavSection",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ContentSideNavSection.js"
+}

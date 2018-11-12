@@ -1,0 +1,1254 @@
+{
+  "info": {},
+  "services": [
+    {
+      "_id": "5ac8b9cd6d500106ec111ec7",
+      "createdAt": "2018-04-07T12:30:05.579Z",
+      "updatedAt": "2018-04-07T12:30:05.579Z",
+      "title": {
+        "uk": "Підтримка чинності патенту на промисловий зразок",
+        "ru": "Поддержание в силе патента на промышленный образец",
+        "en": "Maintenance of the Patent to an Design"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "design",
+      "features": []
+    },
+    {
+      "_id": "5ac8b74d6d500106ec111eb8",
+      "createdAt": "2018-04-07T12:19:25.648Z",
+      "updatedAt": "2018-04-07T12:28:01.963Z",
+      "title": {
+        "uk": "Одержання патенту на промисловий зразок і публікація відомостей про нього",
+        "ru": "Получение патента на промышленный образец и публикация сведений о нем",
+        "en": "Obtaining of the Patent to an Design and the Publication of the Patent Information"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "design",
+      "features": [
+        {
+          "id": "9817b692ad1a9",
+          "title": {
+            "uk": "за один вид одного варіанта промислового зразка",
+            "ru": "за один вид одного варианта промышленного образца",
+            "en": "one variant of design"
+          },
+          "fee": 500,
+          "tax": 167
+        },
+        {
+          "id": "e729210a325ac",
+          "title": {
+            "uk": "за кожний наступний вид кожного варіанта",
+            "ru": "за каждый следующий вид каждого варианта",
+            "en": "every additional variant"
+          },
+          "fee": 250,
+          "tax": 150
+        },
+        {
+          "id": "00d1f7b813062",
+          "title": {
+            "uk": "за публікацію кольорового зображення промислового зразка",
+            "ru": "за публикацию цветного изображения промышленного образца",
+            "en": "Publication of the Color Design"
+          },
+          "fee": 250,
+          "tax": 100
+        }
+      ]
+    },
+    {
+      "_id": "5ac8b52f6d500106ec111ea9",
+      "createdAt": "2018-04-07T12:10:23.720Z",
+      "updatedAt": "2018-04-07T12:18:27.921Z",
+      "title": {
+        "uk": "Складання й подання в Укрпатент заявки на промисловий зразок",
+        "ru": "Составление и подача в Укрпатент заявки на промышленный образец",
+        "en": "Compiling and Submission of the Design Patent Application Form with Ukrpatent"
+      },
+      "specification": {
+        "uk": "вид об'єкта: тривимірний (об'ємний)",
+        "ru": "вид объекта: трехмерный (объемный)",
+        "en": "object of disign: tree-dimensional"
+      },
+      "subject": "design",
+      "features": [
+        {
+          "id": "7d467cc100443",
+          "title": {
+            "uk": "один варіант промислового зразка",
+            "ru": "один вариант промышленного образца",
+            "en": "one variant of design"
+          },
+          "fee": 3600,
+          "tax": 800
+        },
+        {
+          "id": "eb12b169d4dff",
+          "title": {
+            "uk": "кожний наступний варіант",
+            "ru": "каждый следующий вариант свыше одного",
+            "en": "every additional variant up to 10 design variants"
+          },
+          "fee": 600,
+          "tax": 100
+        },
+        {
+          "id": "26a410d194dc6",
+          "title": {
+            "uk": "кожний наступний варіант понад 10 (починаючи з 11-го)",
+            "ru": "каждый следующий вариант свыше десяти (начиная с 11-го)",
+            "en": "every additional variant upwards of 10 variants"
+          },
+          "fee": 600,
+          "tax": 350
+        }
+      ]
+    },
+    {
+      "_id": "5ac7d2ca51dfe92d2caf0c82",
+      "createdAt": "2018-04-06T20:04:26.848Z",
+      "updatedAt": "2018-04-06T20:15:33.962Z",
+      "title": {
+        "uk": "Складання й подання в Укрпатент заявки на промисловий зразок",
+        "ru": "Составление и подача в Укрпатент заявки на промышленный образец",
+        "en": "Compiling and Submission of the Design Patent Application Form with Ukrpatent"
+      },
+      "specification": {
+        "uk": "вид об'єкта: двовимірний (плоский)",
+        "ru": "вид объекта: двухмерный (плоский)",
+        "en": "object of disign: two dimensional (flat)"
+      },
+      "subject": "design",
+      "features": [
+        {
+          "id": "84a3c3bdeb069",
+          "title": {
+            "uk": "один варіант промислового зразка",
+            "ru": "один вариант промышленного образца",
+            "en": "one variant of design"
+          },
+          "fee": 2800,
+          "tax": 800
+        },
+        {
+          "id": "809e919a662a2",
+          "title": {
+            "uk": "кожний наступний варіант",
+            "ru": "каждый следующий вариант свыше одного",
+            "en": "every additional variant up to 10 design variants"
+          },
+          "fee": 400,
+          "tax": 100
+        },
+        {
+          "id": "9fcbe283bfca6",
+          "title": {
+            "uk": "кожний наступний варіант понад 10 (починаючи з 11-го)",
+            "ru": "каждый следующий вариант свыше десяти (начиная с 11-го)",
+            "en": "every additional variant upwards of 10 variants"
+          },
+          "fee": 400,
+          "tax": 350
+        }
+      ]
+    },
+    {
+      "_id": "5ac7ce9eba26cd26a04d6003",
+      "createdAt": "2018-04-06T19:46:38.250Z",
+      "updatedAt": "2018-04-06T19:47:32.821Z",
+      "title": {
+        "uk": "Реєстрація ліцензійного договору на винахід (корисну модель)",
+        "ru": "Регистрация лицензионного договора на изобретение (полезную модель)",
+        "en": "Registration of the Licencing Contract to an Invention (Utility Model)"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "patent",
+      "features": [
+        {
+          "id": "4cacec4ba346",
+          "title": {
+            "uk": "один патент",
+            "ru": "один патент",
+            "en": "one patent"
+          },
+          "fee": 1200,
+          "tax": 400
+        }
+      ]
+    },
+    {
+      "_id": "5ac7cdfeba26cd26a04d5ffe",
+      "createdAt": "2018-04-06T19:43:58.908Z",
+      "updatedAt": "2018-04-06T19:45:03.091Z",
+      "title": {
+        "uk": "Реєстрація договору про передачу прав на винахід (корисну модель)",
+        "ru": "Регистрация договора о передаче прав на изобретение (полезную модель)",
+        "en": "Registration of Contract on the Transfer of Rights to an Invention (Utility Model)"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "patent",
+      "features": [
+        {
+          "id": "859f94cd8ebff",
+          "title": {
+            "uk": "один патент",
+            "ru": "один патент",
+            "en": "one patent"
+          },
+          "fee": 1200,
+          "tax": 600
+        }
+      ]
+    },
+    {
+      "_id": "5ac7cd62ba26cd26a04d5ff9",
+      "createdAt": "2018-04-06T19:41:22.389Z",
+      "updatedAt": "2018-04-06T19:42:08.735Z",
+      "title": {
+        "uk": "Складання ліцензійного договору на винахід (корисну модель)",
+        "ru": "Составление лицензионного договора на изобретение (полезную модель)",
+        "en": "Preparation of the Licencing Contract on Explloitation of an Invention (Utility Model)"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "patent",
+      "features": [
+        {
+          "id": "85b45ccf6568f",
+          "title": {
+            "uk": "один патент",
+            "ru": "один патент",
+            "en": "one patent"
+          },
+          "fee": 3600,
+          "tax": 0
+        }
+      ]
+    },
+    {
+      "_id": "5ac7cc2aba26cd26a04d5ff4",
+      "createdAt": "2018-04-06T19:36:10.434Z",
+      "updatedAt": "2018-04-06T19:38:32.800Z",
+      "title": {
+        "uk": "Складання договору про передачу прав на винахід (корисну модель)",
+        "ru": "Составление договора о передаче прав на изобретение (полезную модель)",
+        "en": "Preparation of Contract on the Transfer of Rights to an Invention (Utility Model)"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "patent",
+      "features": [
+        {
+          "id": "1a4edb8db6e93",
+          "title": {
+            "uk": "один патент",
+            "ru": "один патент",
+            "en": "one patent"
+          },
+          "fee": 1200,
+          "tax": 0
+        }
+      ]
+    },
+    {
+      "_id": "5ac7c829ba26cd26a04d5fac",
+      "createdAt": "2018-04-06T19:19:05.601Z",
+      "updatedAt": "2018-04-06T19:32:38.879Z",
+      "title": {
+        "uk": "Підтримка чинності патенту на корисну модель",
+        "ru": "Поддержание в силе патента на полезную модель",
+        "en": "Maintenance of the Patent to an Utility Model"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "patent",
+      "features": [
+        {
+          "id": "45c03b6afcaf6",
+          "title": {
+            "uk": "перший і другий роки",
+            "ru": "первый и второй годы",
+            "en": "first and second years"
+          },
+          "fee": 500,
+          "tax": 300
+        },
+        {
+          "id": "31a3c83121ace",
+          "title": {
+            "uk": "третій рік",
+            "ru": "третий год",
+            "en": "third year"
+          },
+          "fee": 500,
+          "tax": 400
+        },
+        {
+          "id": "05d179a39dbbe",
+          "title": {
+            "uk": "четвертий рік",
+            "ru": "четвертый год",
+            "en": "fourth year"
+          },
+          "fee": 500,
+          "tax": 500
+        },
+        {
+          "id": "c1a7c10c0d1d4",
+          "title": {
+            "uk": "п'ятий рік",
+            "ru": "пятый год",
+            "en": "fifth year"
+          },
+          "fee": 500,
+          "tax": 600
+        },
+        {
+          "id": "a93130a6747e7",
+          "title": {
+            "uk": "шостий рік",
+            "ru": "шестой год",
+            "en": "sixth year"
+          },
+          "fee": 500,
+          "tax": 700
+        },
+        {
+          "id": "90aade46dc28e",
+          "title": {
+            "uk": "сьомий рік",
+            "ru": "седьмой год",
+            "en": "seventh year"
+          },
+          "fee": 500,
+          "tax": 800
+        },
+        {
+          "id": "0a42e37b477d",
+          "title": {
+            "uk": "восьмий рік",
+            "ru": "восьмой год",
+            "en": "eighth year"
+          },
+          "fee": 500,
+          "tax": 900
+        },
+        {
+          "id": "2b9a482be7966",
+          "title": {
+            "uk": "дев'ятий і десятий роки",
+            "ru": "девятый и десятый годы",
+            "en": "ninth and tenth years"
+          },
+          "fee": 500,
+          "tax": 2100
+        }
+      ]
+    },
+    {
+      "_id": "5ac7c243ba26cd26a04d5f72",
+      "createdAt": "2018-04-06T18:53:55.355Z",
+      "updatedAt": "2018-04-06T19:16:23.595Z",
+      "title": {
+        "uk": "Підтримка чинності патенту на винахід",
+        "ru": "Поддержание в силе патента на изобретение",
+        "en": "Maintenance of the Patent to an Invention"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "patent",
+      "features": [
+        {
+          "id": "b89d87c5b377",
+          "title": {
+            "uk": "перший і другий роки",
+            "ru": "первый и второй год",
+            "en": "first and second year"
+          },
+          "fee": 500,
+          "tax": 300
+        },
+        {
+          "id": "267f06318e8f6",
+          "title": {
+            "uk": "третій рік",
+            "ru": "третий год",
+            "en": "third year"
+          },
+          "fee": 500,
+          "tax": 400
+        },
+        {
+          "id": "20832e1f1a851",
+          "title": {
+            "uk": "четвертий рік",
+            "ru": "четвертый год",
+            "en": "fourth year"
+          },
+          "fee": 500,
+          "tax": 500
+        },
+        {
+          "id": "a845aba73ab3d",
+          "title": {
+            "uk": "п'ятий рік",
+            "ru": "пятый год",
+            "en": "fifth year"
+          },
+          "fee": 500,
+          "tax": 600
+        },
+        {
+          "id": "f1ec9eeb6d1e6",
+          "title": {
+            "uk": "шостий рік",
+            "ru": "шестой год",
+            "en": "sixth year"
+          },
+          "fee": 500,
+          "tax": 700
+        },
+        {
+          "id": "71d337952398a",
+          "title": {
+            "uk": "сьомий рік",
+            "ru": "седьмой год",
+            "en": "seventh year"
+          },
+          "fee": 500,
+          "tax": 800
+        },
+        {
+          "id": "021874df9bc85",
+          "title": {
+            "uk": "восьмий рік",
+            "ru": "восьмой год",
+            "en": "eighth year"
+          },
+          "fee": 500,
+          "tax": 900
+        },
+        {
+          "id": "975cef4e22b57",
+          "title": {
+            "uk": "дев'ятий - чотирнадцятий роки",
+            "ru": "девятый - четырнадцатый годы",
+            "en": "ninth - fourteenth years"
+          },
+          "fee": 500,
+          "tax": 2100
+        },
+        {
+          "id": "f15dae3f3c1a2",
+          "title": {
+            "uk": "п'ятнадцятий - двадцять п'ятий роки",
+            "ru": "пятнадцатый - двадцать пятый годы",
+            "en": "fifteenth to the twenty-fifth years"
+          },
+          "fee": 500,
+          "tax": 3800
+        }
+      ]
+    },
+    {
+      "_id": "5ac7c14fba26cd26a04d5f6d",
+      "createdAt": "2018-04-06T18:49:51.273Z",
+      "updatedAt": "2018-04-06T18:50:53.227Z",
+      "title": {
+        "uk": "Одержання патенту на винахід (корисну модель) і публікація відомостей про нього",
+        "ru": "Получение патента на изобретение (полезную модель) и публикация сведений о нем",
+        "en": "Obtaining of the Patent to an Invention (Utility Model) and the Publication of the Patent Information"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "patent",
+      "features": [
+        {
+          "id": "802e916cf2ef9",
+          "title": {
+            "uk": "один патент",
+            "ru": "один патент",
+            "en": "one patent"
+          },
+          "fee": 500,
+          "tax": 247
+        }
+      ]
+    },
+    {
+      "_id": "5ac7bfceba26cd26a04d5f63",
+      "createdAt": "2018-04-06T18:43:26.197Z",
+      "updatedAt": "2018-04-06T18:47:08.531Z",
+      "title": {
+        "uk": "Ведення листування з Укрпатентом",
+        "ru": "Ведение переписки с Укрпатентом",
+        "en": "Maintenance of the Correspondence with the Ukrpatent during the"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "patent",
+      "features": [
+        {
+          "id": "740a118a9c0ce",
+          "title": {
+            "uk": "формальна експертиза",
+            "ru": "формальная экспертиза",
+            "en": "formal examination"
+          },
+          "fee": 1000,
+          "tax": 0
+        },
+        {
+          "id": "3a48c8d59aa0d",
+          "title": {
+            "uk": "експертиза по суті",
+            "ru": "экспертиза по существу",
+            "en": "examination as to substance"
+          },
+          "fee": 2000,
+          "tax": 0
+        }
+      ]
+    },
+    {
+      "_id": "5ac7be2fba26cd26a04d5f5a",
+      "createdAt": "2018-04-06T18:36:31.476Z",
+      "updatedAt": "2018-04-06T18:40:20.349Z",
+      "title": {
+        "uk": "Подача клопотання про проведення кваліфікаційної експертизи заявки на винахід",
+        "ru": "Подача ходатайства о проведении квалификационной экспертизы заявки на изобретение",
+        "en": "Submission of a request for an examination as to substance concerning the patent to an invention"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "patent",
+      "features": [
+        {
+          "id": "55623f91c3be7",
+          "title": {
+            "uk": "один незалежний пункт формули",
+            "ru": "один независимый пункт формулы",
+            "en": "one independent claim"
+          },
+          "fee": 1000,
+          "tax": 3000
+        },
+        {
+          "id": "561834581716a",
+          "title": {
+            "uk": "кожний наступний незалежний пункт формули",
+            "ru": "один независимый пункт формулы",
+            "en": "every additional independent claim"
+          },
+          "fee": 0,
+          "tax": 3000
+        }
+      ]
+    },
+    {
+      "_id": "5ac7bc90ba26cd26a04d5f4f",
+      "createdAt": "2018-04-06T18:29:36.184Z",
+      "updatedAt": "2018-04-06T18:34:57.787Z",
+      "title": {
+        "uk": "Складання й подача в Укрпатент заявки на корисну модель",
+        "ru": "Складання й подача в Укрпатент заявки на корисну модель",
+        "en": "Compiling and Submission of the Application Form to Utility Model with Ukrpatent"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "patent",
+      "features": [
+        {
+          "id": "e1f8d55abc0e1",
+          "title": {
+            "uk": "до 15 пунктів формули",
+            "ru": "до 15 пунктов формулы",
+            "en": "up to 15 application claims"
+          },
+          "fee": 2800,
+          "tax": 800
+        },
+        {
+          "id": "91cf326749485",
+          "title": {
+            "uk": "кожний додатковий пункт формули",
+            "ru": "каждый дополнительный пункт формулы",
+            "en": "every additional claim"
+          },
+          "fee": 300,
+          "tax": 80
+        }
+      ]
+    },
+    {
+      "_id": "5ac7baecba26cd26a04d5f46",
+      "createdAt": "2018-04-06T18:22:36.096Z",
+      "updatedAt": "2018-04-06T18:26:47.716Z",
+      "title": {
+        "uk": "Складання й подача в Укрпатент заявки на винахід",
+        "ru": "Составление и подача в Укрпатент заявки на изобретение",
+        "en": "Compiling and Submission of the Patent Application Form with Ukrpatent"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "patent",
+      "features": [
+        {
+          "id": "bdd93bf1190ad",
+          "title": {
+            "uk": "до 3-х пунктів формули",
+            "ru": "до 3-х пунктов формулы включительно",
+            "en": "up to 3 application claims"
+          },
+          "fee": 3600,
+          "tax": 800
+        },
+        {
+          "id": "aaf05bf21015d",
+          "title": {
+            "uk": "кожний додатковий пункт формули понад 3-х",
+            "ru": "каждый дополнительный пункт формулы свыше 3-х",
+            "en": "every additional claim over 3 claims"
+          },
+          "fee": 400,
+          "tax": 80
+        }
+      ]
+    },
+    {
+      "_id": "5ac7adad09bccf0a306cdaf7",
+      "createdAt": "2018-04-06T17:26:05.052Z",
+      "updatedAt": "2018-04-06T17:27:49.605Z",
+      "title": {
+        "uk": "Реєстрація договорів, що стосуються авторських прав",
+        "ru": "Регистрация договоров, касающихся авторских прав",
+        "en": "Registration of Copyright related contracts"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "copyright",
+      "features": [
+        {
+          "id": "91d2a89bb6d9",
+          "title": {
+            "uk": "від фізичних осіб",
+            "ru": "от физических лиц",
+            "en": "for natural persons"
+          },
+          "fee": 800,
+          "tax": 72.25
+        },
+        {
+          "id": "1c96f84a6d5e1",
+          "title": {
+            "uk": "від юридичних осіб",
+            "ru": "от юридических лиц",
+            "en": "for legal persons"
+          },
+          "fee": 1000,
+          "tax": 195.5
+        }
+      ]
+    },
+    {
+      "_id": "5ac7ace909bccf0a306cdaf2",
+      "createdAt": "2018-04-06T17:22:49.529Z",
+      "updatedAt": "2018-04-06T17:22:49.529Z",
+      "title": {
+        "uk": "Складання договору про використання авторських прав",
+        "ru": "Составление лицензионного договора об использовании авторских прав",
+        "en": "Drafting and preparation of the licence contract on Copyright exploitation"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "copyright",
+      "features": [
+        {
+          "id": "4ba5f0ca3b348",
+          "title": {
+            "uk": "один твір",
+            "ru": "одно произведение",
+            "en": "one piece"
+          },
+          "fee": 1100,
+          "tax": 0
+        }
+      ]
+    },
+    {
+      "_id": "5ac7ac4f09bccf0a306cdaed",
+      "createdAt": "2018-04-06T17:20:15.904Z",
+      "updatedAt": "2018-04-06T17:20:15.904Z",
+      "title": {
+        "uk": "Складання договору про передачу авторських прав",
+        "ru": "Составление договора о передаче авторских прав",
+        "en": "Drafting and preparation of the contract on transfer of Copyright"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "copyright",
+      "features": [
+        {
+          "id": "466723d4112d1",
+          "title": {
+            "uk": "один твір",
+            "ru": "одно произведение",
+            "en": "one piece"
+          },
+          "fee": 800,
+          "tax": 0
+        }
+      ]
+    },
+    {
+      "_id": "5ac7a75109bccf0a306cdae4",
+      "createdAt": "2018-04-06T16:58:57.571Z",
+      "updatedAt": "2018-04-06T17:00:39.316Z",
+      "title": {
+        "uk": "Одержання свідоцтва про реєстрацію авторських прав",
+        "ru": "Получение свидетельства о регистрации авторских прав",
+        "en": "Obtainment of Copyright Registration Certificate"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "copyright",
+      "features": [
+        {
+          "id": "7d97bd99c2401",
+          "title": {
+            "uk": "від фізичних осіб",
+            "ru": "от физических лиц",
+            "en": "for natural persons"
+          },
+          "fee": 500,
+          "tax": 8.5
+        },
+        {
+          "id": "e27f4f51bcd62",
+          "title": {
+            "uk": "від юридичних осіб",
+            "ru": "от юридических лиц",
+            "en": "for legal persons"
+          },
+          "fee": 500,
+          "tax": 22.5
+        }
+      ]
+    },
+    {
+      "_id": "5ac7a5cd09bccf0a306cdadb",
+      "createdAt": "2018-04-06T16:52:29.051Z",
+      "updatedAt": "2018-04-06T16:54:46.649Z",
+      "title": {
+        "uk": "Підготовка документів і подача заявки на реєстрацію авторських прав",
+        "ru": "Подготовка документов и подача заявки на регистрацию авторских прав",
+        "en": "Preparation of documents and filing of application for the Copyright registration"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "copyright",
+      "features": [
+        {
+          "id": "e58d0ce7aaeb5",
+          "title": {
+            "uk": "від фізичних осіб",
+            "ru": "от физических лиц",
+            "en": "for natural persons"
+          },
+          "fee": 800,
+          "tax": 55.25
+        },
+        {
+          "id": "37d1df93e49cb",
+          "title": {
+            "uk": "від юридичних осіб",
+            "ru": "от юридических лиц",
+            "en": "for legal persons"
+          },
+          "fee": 1000,
+          "tax": 161.5
+        }
+      ]
+    },
+    {
+      "_id": "5abfdd0686a62131a42cf37d",
+      "createdAt": "2018-03-31T19:09:58.308Z",
+      "updatedAt": "2018-03-31T19:11:10.297Z",
+      "title": {
+        "uk": "Реєстрація ліцензійного договору на торговельну марку",
+        "ru": "Регистрация лицензионного договора на торговую марку",
+        "en": "Preparation of the Licencing Contract on Explloitation of a Trademark"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "trademark",
+      "features": [
+        {
+          "id": "2e3f5eec98888",
+          "title": {
+            "uk": "один знак",
+            "ru": "один знак",
+            "en": "one trademark"
+          },
+          "fee": 1200,
+          "tax": 400
+        }
+      ]
+    },
+    {
+      "_id": "5abfdc7086a62131a42cf378",
+      "createdAt": "2018-03-31T19:07:28.340Z",
+      "updatedAt": "2018-03-31T19:08:22.903Z",
+      "title": {
+        "uk": "Реєстрація договору про передачу прав на торговельну марку",
+        "ru": "Регистрация договора о передаче прав на торговую марку",
+        "en": "Регистрация договора о передаче прав на торговую марку"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "trademark",
+      "features": [
+        {
+          "id": "6287bb62a551",
+          "title": {
+            "uk": "один знак",
+            "ru": "один знак",
+            "en": "one trademark"
+          },
+          "fee": 1200,
+          "tax": 600
+        }
+      ]
+    },
+    {
+      "_id": "5abfdb8f86a62131a42cf373",
+      "createdAt": "2018-03-31T19:03:43.843Z",
+      "updatedAt": "2018-03-31T19:05:57.319Z",
+      "title": {
+        "uk": "Складання ліцензійного договору на торговельну марку",
+        "ru": "Составление лицензионного договора на торговую марку",
+        "en": "Preparation of the Licencing Contract on Explloitation of a Trademark"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "trademark",
+      "features": [
+        {
+          "id": "65b4a2c8bf1e",
+          "title": {
+            "uk": "один знак",
+            "ru": "один знак",
+            "en": "one trademark"
+          },
+          "fee": 3600,
+          "tax": 0
+        }
+      ]
+    },
+    {
+      "_id": "5abfdaaa86a62131a42cf36e",
+      "createdAt": "2018-03-31T18:59:54.655Z",
+      "updatedAt": "2018-03-31T19:02:04.950Z",
+      "title": {
+        "uk": "Складання договору про передачу прав на торговельну марку",
+        "ru": "Составление договора о передаче прав на торговую марку",
+        "en": "Preparation of Contract on the Transfer of Rights to a Trademark"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "trademark",
+      "features": [
+        {
+          "id": "4ffb6539421b6",
+          "title": {
+            "uk": "один знак",
+            "ru": "один знак",
+            "en": "one trademark"
+          },
+          "fee": 1200,
+          "tax": 0
+        }
+      ]
+    },
+    {
+      "_id": "5abfd8a186a62131a42cf364",
+      "createdAt": "2018-03-31T18:51:13.060Z",
+      "updatedAt": "2018-03-31T18:56:53.678Z",
+      "title": {
+        "uk": "Одержання свідоцтва на товарний знак і публікація відомостей про нього",
+        "ru": "Получение свидетельства на товарный знак и публикация сведений о нем",
+        "en": "Obtaining of the Trademark Registration Certificate and the Publication of the Trademark Information"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "trademark",
+      "features": [
+        {
+          "id": "2f7c86164bafb",
+          "title": {
+            "uk": "один клас МКТП",
+            "ru": "один класс МКТУ",
+            "en": "one class ICPS"
+          },
+          "fee": 500,
+          "tax": 235
+        },
+        {
+          "id": "75bd3bd7f5106",
+          "title": {
+            "uk": "кожний наступний клас МКТП",
+            "ru": "каждый следующий класс МКТУ",
+            "en": "every additional class ICPS"
+          },
+          "fee": 100,
+          "tax": 150
+        },
+        {
+          "id": "c8629f3e17123",
+          "title": {
+            "uk": "публікація кольорового зображення знака",
+            "ru": "публикация цветного изображения знака",
+            "en": "publication of the Color Trademark"
+          },
+          "fee": 100,
+          "tax": 100
+        }
+      ]
+    },
+    {
+      "_id": "5abfd74286a62131a42cf35d",
+      "createdAt": "2018-03-31T18:45:22.660Z",
+      "updatedAt": "2018-03-31T18:49:37.225Z",
+      "title": {
+        "uk": "Проведення прискореної експертизи заявки на товарний знак",
+        "ru": "Проведение ускоренной экспертизы заявки на товарный знак",
+        "en": "Accelerated Trademark Examination Procedure"
+      },
+      "specification": {
+        "uk": "Вид знака: комбінований",
+        "ru": "Вид знака: комбинированный",
+        "en": "Object of trademark: combined (wordmark and image)"
+      },
+      "subject": "trademark",
+      "features": [
+        {
+          "id": "22bd5c80bf753",
+          "title": {
+            "uk": "один клас МКТП",
+            "ru": "один класс МКТУ",
+            "en": "one class ICPS"
+          },
+          "fee": 1200,
+          "tax": 3552
+        },
+        {
+          "id": "392f48d0234d3",
+          "title": {
+            "uk": "кожний наступний клас МКТП",
+            "ru": "каждый следующий класс МКТУ",
+            "en": "every additional class ICPS"
+          },
+          "fee": 240,
+          "tax": 348
+        }
+      ]
+    },
+    {
+      "_id": "5abfd42786a62131a42cf356",
+      "createdAt": "2018-03-31T18:32:07.810Z",
+      "updatedAt": "2018-03-31T18:41:52.648Z",
+      "title": {
+        "uk": "Проведення прискореної експертизи заявки на товарний знак",
+        "ru": "Проведение ускоренной экспертизы заявки на товарный знак",
+        "en": "Accelerated Trademark Examination Procedure"
+      },
+      "specification": {
+        "uk": "Вид знака: словесний або зображувальний",
+        "ru": "Вид знака: словесный или изобразительный",
+        "en": "Object of trademark: wordmark or image"
+      },
+      "subject": "trademark",
+      "features": [
+        {
+          "id": "c2e91e91391fd",
+          "title": {
+            "uk": "один клас МКТП",
+            "ru": "один класс МКТУ",
+            "en": "one class ICPS"
+          },
+          "fee": 1000,
+          "tax": 1872
+        },
+        {
+          "id": "3ba7011632c53",
+          "title": {
+            "uk": "кожний наступний клас МКТП",
+            "ru": "каждый следующий класс МКТУ свыше одного",
+            "en": "every additional class ICPS"
+          },
+          "fee": 200,
+          "tax": 228
+        }
+      ]
+    },
+    {
+      "_id": "5abfd26b86a62131a42cf34c",
+      "createdAt": "2018-03-31T18:24:43.105Z",
+      "updatedAt": "2018-03-31T18:28:43.498Z",
+      "title": {
+        "uk": "Складання і подання в Укрпатент заявки на товарний знак",
+        "ru": "Составление и подача в Укрпатент заявки на товарный знак",
+        "en": "Compiling and Submission of the Application Form to Trademark with Ukrpatent"
+      },
+      "specification": {
+        "uk": "",
+        "ru": "",
+        "en": ""
+      },
+      "subject": "trademark",
+      "features": [
+        {
+          "id": "f9a8cda2ed827",
+          "title": {
+            "uk": "один клас МКТП",
+            "ru": "один класс МКТУ",
+            "en": "one class ICPS"
+          },
+          "fee": 1400,
+          "tax": 1000
+        },
+        {
+          "id": "515a2a6ca4ba3",
+          "title": {
+            "uk": "кожний наступний клас МКТП",
+            "ru": "каждый следующий класс МКТУ",
+            "en": "every additional class ICPS"
+          },
+          "fee": 200,
+          "tax": 1000
+        },
+        {
+          "id": "fb325da076313",
+          "title": {
+            "uk": "подача знака в кольоровому зображенні",
+            "ru": "подача знака в цветном изображении",
+            "en": "submission of the Application Form to Color Trademark"
+          },
+          "fee": 200,
+          "tax": 500
+        }
+      ]
+    },
+    {
+      "_id": "5abfd07586a62131a42cf345",
+      "createdAt": "2018-03-31T18:16:21.018Z",
+      "updatedAt": "2018-03-31T18:21:16.267Z",
+      "title": {
+        "uk": "Проведення пошуку на тотожність і схожість із зареєстрованими або поданими на реєстрацію",
+        "ru": "Проведение поиска на тождество и сходство с зарегистрированными или поданными на регистрацию товарными знаками",
+        "en": "Identity and Similarity Preliminaty Search"
+      },
+      "specification": {
+        "uk": "Вид знака: комбінований",
+        "ru": "Вид знака: комбинированный",
+        "en": "Object of trademark: combined (wordmark and image)"
+      },
+      "subject": "trademark",
+      "features": [
+        {
+          "id": "cfa7cd978f43b",
+          "title": {
+            "uk": "один клас МКТП",
+            "ru": "один класс МКТУ",
+            "en": "one class ICPS"
+          },
+          "fee": 900,
+          "tax": 1200
+        },
+        {
+          "id": "0d3fda755021d",
+          "title": {
+            "uk": "кожний наступний клас МКТП",
+            "ru": "каждый следующий класс МКТУ",
+            "en": "every additional class ICPS"
+          },
+          "fee": 180,
+          "tax": 240
+        }
+      ]
+    },
+    {
+      "_id": "5a97e8db20d03c11507603ac",
+      "createdAt": "2018-03-01T11:49:48.206Z",
+      "updatedAt": "2018-03-31T18:12:45.500Z",
+      "title": {
+        "uk": "Проведення пошуку на тотожність і схожість із зареєстрованими або поданими на реєстрацію товарними знаками",
+        "ru": "Проведение поиска на тождество и сходство с зарегистрированными или поданными на регистрацию товарными знаками",
+        "en": "Identity and Similarity Preliminaty Search"
+      },
+      "specification": {
+        "uk": "Вид знака: словесний або зображувальний",
+        "ru": "Вид знака: словесный или изобразительный",
+        "en": "object of trademark: wordmark or image"
+      },
+      "subject": "trademark",
+      "features": [
+        {
+          "id": "7584cef5c451",
+          "title": {
+            "uk": "один клас МКТП",
+            "ru": "один класс МКТУ",
+            "en": "one class ICPS"
+          },
+          "fee": 1400,
+          "tax": 1000
+        },
+        {
+          "id": "c84f1f35a26c3",
+          "title": {
+            "uk": "кожний наступний клас МКТП",
+            "ru": "каждый следующий класс МКТУ",
+            "en": "every additional class ICPS"
+          },
+          "fee": 200,
+          "tax": 1000
+        }
+      ]
+    }
+  ],
+  "service_excerpts": [
+    {
+      "_id": "5ac7d0986ac979190c3e0c6c",
+      "paramNames": "[\"subject\"]",
+      "items": [
+        "5ac7baecba26cd26a04d5f46",
+        "5ac7bc90ba26cd26a04d5f4f",
+        "5ac7be2fba26cd26a04d5f5a",
+        "5ac7bfceba26cd26a04d5f63",
+        "5ac7c14fba26cd26a04d5f6d",
+        "5ac7c243ba26cd26a04d5f72",
+        "5ac7c829ba26cd26a04d5fac",
+        "5ac7cc2aba26cd26a04d5ff4",
+        "5ac7cd62ba26cd26a04d5ff9",
+        "5ac7cdfeba26cd26a04d5ffe",
+        "5ac7ce9eba26cd26a04d6003"
+      ],
+      "subject": "patent"
+    },
+    {
+      "_id": "5ac7d0986ac979190c3e0c6d",
+      "paramNames": "[\"subject\"]",
+      "items": [
+        "5ac7a5cd09bccf0a306cdadb",
+        "5ac7a75109bccf0a306cdae4",
+        "5ac7ac4f09bccf0a306cdaed",
+        "5ac7ace909bccf0a306cdaf2",
+        "5ac7adad09bccf0a306cdaf7"
+      ],
+      "subject": "copyright"
+    },
+    {
+      "_id": "5ac7d0986ac979190c3e0c6e",
+      "paramNames": "[\"subject\"]",
+      "items": [
+        "5a97e8db20d03c11507603ac",
+        "5abfd07586a62131a42cf345",
+        "5abfd26b86a62131a42cf34c",
+        "5abfd42786a62131a42cf356",
+        "5abfd74286a62131a42cf35d",
+        "5abfd8a186a62131a42cf364",
+        "5abfdaaa86a62131a42cf36e",
+        "5abfdb8f86a62131a42cf373",
+        "5abfdc7086a62131a42cf378",
+        "5abfdd0686a62131a42cf37d"
+      ],
+      "subject": "trademark"
+    },
+    {
+      "_id": "5ac7d2caa6e8b06e669c2b64",
+      "paramNames": "[\"subject\"]",
+      "items": [
+        "5ac7d2ca51dfe92d2caf0c82",
+        "5ac8b52f6d500106ec111ea9",
+        "5ac8b74d6d500106ec111eb8",
+        "5ac8b9cd6d500106ec111ec7"
+      ],
+      "subject": "design"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "RichTextEditorToolbar2",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./RichTextEditorToolbar2.js"
+}

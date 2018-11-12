@@ -1,0 +1,167 @@
+{
+  "info": {},
+  "articles": [
+    {
+      "_id": "5a9c3bb526331a1ba02b062f",
+      "createdAt": "2018-03-04T18:32:21.789Z",
+      "updatedAt": "2018-03-04T18:32:21.789Z",
+      "title": {
+        "uk": "індексова сторінка - дуже довга назва",
+        "ru": "индексная страница - очень длинный заголовок",
+        "en": "index page! - very long title"
+      },
+      "shortTitle": {
+        "uk": "індексова сторінка",
+        "ru": "индексная страница",
+        "en": "index page"
+      },
+      "content": {
+        "uk":
+          "{\"entityMap\":{},\"blocks\":[{\"key\":\"b6hgj\",\"text\":\"індекс контент українською (design)    \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"1k309\",\"text\":\"перший пунк індекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"asdp0\",\"text\":\"другий пункт індекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"8lkvn\",\"text\":\"третій пункт індекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"gc8t\",\"text\":\"  тестування пошуку\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}",
+        "ru":
+          "{\"entityMap\":{},\"blocks\":[{\"key\":\"6e3ef\",\"text\":\"индекс контент по русски (design)    \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"bk9h5\",\"text\":\"первый пунк индекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"2op12\",\"text\":\"второй пункт индекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"6dq8f\",\"text\":\"третий пункт индекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}",
+        "en":
+          "{\"entityMap\":{},\"blocks\":[{\"key\":\"b52ue\",\"text\":\"xyz content in english (design)    \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"d6gn8\",\"text\":\"first point index\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"f98f4\",\"text\":\"second point index\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"7dgo9\",\"text\":\"third point index\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}"
+      },
+      "subject": ["patent"],
+      "section": "info",
+      "slug": "",
+      "pictures": []
+    },
+    {
+      "_id": "5a9c3bb526331a1ba02b0630",
+      "createdAt": "2018-03-04T18:32:21.789Z",
+      "updatedAt": "2018-03-04T18:32:21.789Z",
+      "title": {
+        "uk": "індексова сторінка - services - дуже довга назва",
+        "ru": "индексная страница - services- очень длинный заголовок",
+        "en": "index page! - services - very long title"
+      },
+      "shortTitle": {
+        "uk": "індексова сторінка - services",
+        "ru": "индексная страница - services",
+        "en": "index page - services"
+      },
+      "content": {
+        "uk":
+          "{\"entityMap\":{},\"blocks\":[{\"key\":\"36nnm\",\"text\":\"індекс контент українською (services)    \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"28v0l\",\"text\":\"перший пунк індекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"dqnof\",\"text\":\"другий пункт індекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"dv44d\",\"text\":\"третій пункт індекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}",
+        "ru":
+          "{\"entityMap\":{},\"blocks\":[{\"key\":\"d8bg6\",\"text\":\"индекс контент по русски (services)    \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"c89e8\",\"text\":\"первый пунк индекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"1ha91\",\"text\":\"второй пункт индекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"44mca\",\"text\":\"третий пункт индекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}",
+        "en":
+          "{\"entityMap\":{},\"blocks\":[{\"key\":\"e2je7\",\"text\":\"xyz content in english (services)    \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"8djjs\",\"text\":\"first point index\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"3kbr8\",\"text\":\"second point index\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"9dhuv\",\"text\":\"third point index\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}"
+      },
+      "subject": ["patent"],
+      "section": "services",
+      "slug": "",
+      "pictures": []
+    },
+    {
+      "_id": "5a9c3bb526331a1ba02b062c",
+      "createdAt": "2018-03-04T18:32:21.788Z",
+      "updatedAt": "2018-03-04T18:32:21.788Z",
+      "title": {
+        "uk": "abc - дуже довга назва",
+        "ru": "abc - очень длинный заголовок",
+        "en": "abc - very long title"
+      },
+      "shortTitle": {
+        "uk": "abc - коротко",
+        "ru": "abc - кратко",
+        "en": "abc - short"
+      },
+      "content": {
+        "uk":
+          "{\"entityMap\":{},\"blocks\":[{\"key\":\"1v3pk\",\"text\":\"abc контент українською    \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"2ffa9\",\"text\":\"перший пунк abc\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"co82f\",\"text\":\"другий пункт abc\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"cphp9\",\"text\":\"третій пункт abc\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"6fi0o\",\"text\":\"  тестування дуже нечіткого пошуку\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}",
+        "ru":
+          "{\"entityMap\":{},\"blocks\":[{\"key\":\"eu40p\",\"text\":\"abc контент по русски    \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"59veq\",\"text\":\"первый пунк abc\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"963gj\",\"text\":\"второй пункт abc\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"9njoi\",\"text\":\"третий пункт abc\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}",
+        "en":
+          "{\"entityMap\":{},\"blocks\":[{\"key\":\"f60gq\",\"text\":\"abc content in english    \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"bt8ng\",\"text\":\"first point abc\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"5rsto\",\"text\":\"second point abc\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"5p7fd\",\"text\":\"third point abc\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}"
+      },
+      "subject": ["patent"],
+      "section": "info",
+      "slug": "abc",
+      "pictures": []
+    },
+    {
+      "_id": "5a9c3bb526331a1ba02b062d",
+      "createdAt": "2018-03-04T18:32:21.788Z",
+      "updatedAt": "2018-03-04T18:32:21.788Z",
+      "title": {
+        "uk": "xyz - дуже довга назва (тестування пошуку)",
+        "ru": "xyz - очень длинный заголовок",
+        "en": "xyz - very long title"
+      },
+      "shortTitle": {
+        "uk": "xyz - коротко",
+        "ru": "xyz - кратко",
+        "en": "xyz - short"
+      },
+      "content": {
+        "uk":
+          "{\"entityMap\":{},\"blocks\":[{\"key\":\"1gqni\",\"text\":\"xyz контент українською    \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"apf8\",\"text\":\"перший пунк xyz\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"ev2b3\",\"text\":\"другий пункт xyz\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"6misa\",\"text\":\"третій пункт xyz\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}",
+        "ru":
+          "{\"entityMap\":{},\"blocks\":[{\"key\":\"6dvea\",\"text\":\"xyz контент по русски    \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"1cvjc\",\"text\":\"первый пунк xyz\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"8156h\",\"text\":\"второй пункт xyz\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"5fkvu\",\"text\":\"третий пункт xyz\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}",
+        "en":
+          "{\"entityMap\":{},\"blocks\":[{\"key\":\"amsb3\",\"text\":\"xyz content in english    \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"99dv7\",\"text\":\"first point xyz\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"5esm7\",\"text\":\"second point xyz\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"cepmu\",\"text\":\"third point xyz\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}"
+      },
+      "subject": ["patent"],
+      "section": "info",
+      "slug": "xyz",
+      "pictures": []
+    },
+    {
+      "_id": "5a9c3bb526331a1ba02b062e",
+      "createdAt": "2018-03-04T18:32:21.788Z",
+      "updatedAt": "2018-03-04T18:32:21.788Z",
+      "title": {
+        "uk": "індексова сторінка - дуже довга назва (design)",
+        "ru": "индексная страница - очень длинный заголовок (design)",
+        "en": "index page - very long title (design)"
+      },
+      "shortTitle": {
+        "uk": "індексова сторінка (design)",
+        "ru": "индексная страница (design)",
+        "en": "index page (design)"
+      },
+      "content": {
+        "uk":
+          "{\"entityMap\":{},\"blocks\":[{\"key\":\"b1ukf\",\"text\":\"індекс контент українською (design)    \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"6vote\",\"text\":\"перший пунк індекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"fae45\",\"text\":\"другий пункт індекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"fp9vh\",\"text\":\"третій пункт індекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}",
+        "ru":
+          "{\"entityMap\":{},\"blocks\":[{\"key\":\"1tlg\",\"text\":\"индекс контент по русски (design)    \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"8q4ls\",\"text\":\"первый пунк индекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"ave0h\",\"text\":\"второй пункт индекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"cpvh1\",\"text\":\"третий пункт индекс\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}",
+        "en":
+          "{\"entityMap\":{},\"blocks\":[{\"key\":\"5s0ci\",\"text\":\"xyz content in english (design)    \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"fqpgh\",\"text\":\"first point index\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"dot87\",\"text\":\"second point index\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"fsdei\",\"text\":\"third point index\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}]}"
+      },
+      "subject": ["design"],
+      "section": "info",
+      "slug": "",
+      "pictures": []
+    }
+  ],
+  "article_excerpts": [
+    {
+      "_id": "5a9c3bb526331a1ba02b0645",
+      "paramNames": "[\"section\",\"subject\"]",
+      "items": [
+        "5a9c3bb526331a1ba02b062f",
+        "5a9c3bb526331a1ba02b062c",
+        "5a9c3bb526331a1ba02b062d"
+      ],
+      "subject": "patent",
+      "section": "info"
+    },
+    {
+      "_id": "5a9c3bb526331a1ba02b0646",
+      "paramNames": "[\"section\",\"subject\"]",
+      "items": ["5a9c3bb526331a1ba02b0630"],
+      "subject": "patent",
+      "section": "services"
+    },
+    {
+      "_id": "5a9c3bb526331a1ba02b0647",
+      "paramNames": "[\"section\",\"subject\"]",
+      "items": ["5a9c3bb526331a1ba02b062e"],
+      "subject": "design",
+      "section": "info"
+    }
+  ]
+}

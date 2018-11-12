@@ -1,0 +1,6 @@
+{
+  "name": "ThingForm",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ThingForm.js"
+}

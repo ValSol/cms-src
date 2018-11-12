@@ -1,0 +1,6 @@
+{
+  "name": "ThingSearchList",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ThingSearchList.js"
+}

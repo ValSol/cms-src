@@ -1,0 +1,1422 @@
+[
+  {
+    "id": "Lang.CurrentLanguage",
+    "defaultMessage": "Язык: Русский",
+    "message": "Мова: Українська",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.enINen",
+    "defaultMessage": "Английский (English)",
+    "message": "English (Англійська)",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.ruINru",
+    "defaultMessage": "Русский",
+    "message": "Русский (Російська)",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.ukINuk",
+    "defaultMessage": "Украинский (Українська)",
+    "message": "Українська",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Header.Search",
+    "defaultMessage": "Поиск",
+    "message": "Пошук",
+    "files": [
+      "src/components/Header2/headerMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.SignIn",
+    "defaultMessage": "Вход",
+    "message": "Вхід",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.SignUp",
+    "defaultMessage": "Регистрация",
+    "message": "Реєстрація",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Article.EditingTheArticleRichText",
+    "defaultMessage": "Редактирование контента публикации",
+    "message": "Редагування контента публікації",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.NewArticle",
+    "defaultMessage": "Новая публикация",
+    "message": "Нова публікація",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.RecoveringTheArticle",
+    "defaultMessage": "Восстановление публикации",
+    "message": "Відновлення публікації",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.ListOfArticles",
+    "defaultMessage": "Перечень публикаций",
+    "message": "Перелік публікацій",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.ExportOfArticles",
+    "defaultMessage": "Экспорт публикаций",
+    "message": "Експорт публікацій",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.ImportOfArticles",
+    "defaultMessage": "Импорт публикаций",
+    "message": "Імпорт публікацій",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.StatusOfArticles",
+    "defaultMessage": "Состояние публикаций",
+    "message": "Стан публікацій",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.Email",
+    "defaultMessage": "Электронный адрес",
+    "message": "Електронна адреса",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.Password",
+    "defaultMessage": "Пароль",
+    "message": "Пароль",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.Password2",
+    "defaultMessage": "Пароль повторно",
+    "message": "Пароль повторно",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.Enter",
+    "defaultMessage": "Войти",
+    "message": "Увійти",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.GoToTheEntrance",
+    "defaultMessage": "Перейти на вход",
+    "message": "Перейти на вхід",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.GoToTheRegistration",
+    "defaultMessage": "Перейти к регистрации",
+    "message": "Перейти до реєстрації",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.Register",
+    "defaultMessage": "Зарегистрировать",
+    "message": "Зареєструвати",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.TheEntranceToTheControlPanel",
+    "defaultMessage": "Вход в панель управления",
+    "message": "Вхід в панель керування",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.DataProcessingFailure",
+    "defaultMessage": "Data processing failure",
+    "message": "Помилка обробки даних",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.EmailAlreadyTaken",
+    "defaultMessage": "Email already taken",
+    "message": "Електронна адреса вже використовується",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.FieldsMustMatch",
+    "defaultMessage": "Fields must match",
+    "message": "Поля повинні співпадати",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InternetConnectionError",
+    "defaultMessage": "Internet connection error",
+    "message": "Помилка мережі",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InvalidEmail",
+    "defaultMessage": "Invalid email",
+    "message": "Неправильна адреса електронної пошти",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.RequiredField",
+    "defaultMessage": "Required field",
+    "message": "Обов'язкове поле",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.FailureOfSignin",
+    "defaultMessage": "Failure of signin",
+    "message": "Неправильний пароль або адреса електронної пошти",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.FailureOfSignup",
+    "defaultMessage": "Failure of signup",
+    "message": "Помилка реєстрації",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Article.DeletingTheArticle",
+    "defaultMessage": "Удаление публикации",
+    "message": "Видалення публікації",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.EditingTheArticle",
+    "defaultMessage": "Редактирование публикации",
+    "message": "Редагування публікації",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.TheArticleDeleted",
+    "defaultMessage": "Публикация удалена!",
+    "message": "Публікація видалена!",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.AddTheArticle",
+    "defaultMessage": "Добавить публикацию",
+    "message": "Додати публікацію",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.DeleteTheArticle",
+    "defaultMessage": "Удалить публикацию",
+    "message": "Видалити публікацію",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.RecoverTheArticle",
+    "defaultMessage": "Восстановить публикацию",
+    "message": "Відновити публікацію",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Core.SaveChanges",
+    "defaultMessage": "Сохранить изменения",
+    "message": "Зберегти зміни",
+    "files": [
+      "src/core/coreMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.content",
+    "defaultMessage": "Содержание",
+    "message": "Зміст",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "Article.GoToListOfArticles",
+    "defaultMessage": "К перечню публикаций",
+    "message": "До переліку публікацій",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.slug",
+    "defaultMessage": "Строка-идентификатор",
+    "message": "Стрічка-ідентифікатор",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.title",
+    "defaultMessage": "Заголовок",
+    "message": "Назва",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.shortTitle",
+    "defaultMessage": "Заголовок кратко",
+    "message": "Назва коротко",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.INen",
+    "defaultMessage": "По английски",
+    "message": "Англійською",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.INru",
+    "defaultMessage": "По русски",
+    "message": "Російською",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.INuk",
+    "defaultMessage": "По украински",
+    "message": "Українською",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.INenBriefly",
+    "defaultMessage": "англ",
+    "message": "англ",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.INruBriefly",
+    "defaultMessage": "рус",
+    "message": "рос",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.INukBriefly",
+    "defaultMessage": "укр",
+    "message": "укр",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InvalidCharacters",
+    "defaultMessage": "Invalid characters",
+    "message": "Неприпустимі символи",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.Signout",
+    "defaultMessage": "Sing Out",
+    "message": "Вийти",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.slugAlreadyTaken",
+    "defaultMessage": "Slug already taken",
+    "message": "Стрічка-ідентифікатор вже використовується",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Header.Editing",
+    "defaultMessage": "Редактирование",
+    "message": "Редагування",
+    "files": [
+      "src/components/Header2/headerMessages.js"
+    ]
+  },
+  {
+    "id": "Header.Deleting",
+    "defaultMessage": "Удаление",
+    "message": "Видалення",
+    "files": [
+      "src/components/Header2/headerMessages.js"
+    ]
+  },
+  {
+    "id": "HeaderRecovering",
+    "defaultMessage": "Восстановление",
+    "message": "Відновлення"
+  },
+  {
+    "id": "Header.Preview",
+    "defaultMessage": "Предпросмотр",
+    "message": "Попередній перегляд",
+    "files": [
+      "src/components/Header2/headerMessages.js"
+    ]
+  },
+  {
+    "id": "Header.Export",
+    "defaultMessage": "Экспорт",
+    "message": "Експорт",
+    "files": [
+      "src/components/Header2/headerMessages.js"
+    ]
+  },
+  {
+    "id": "Header.Import",
+    "defaultMessage": "Импорт",
+    "message": "Імпорт",
+    "files": [
+      "src/components/Header2/headerMessages.js"
+    ]
+  },
+  {
+    "id": "Header.Recovering",
+    "defaultMessage": "Восстановление",
+    "message": "Відновлення",
+    "files": [
+      "src/components/Header2/headerMessages.js"
+    ]
+  },
+  {
+    "id": "Params.info",
+    "defaultMessage": "Информация",
+    "message": "Інформація",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.services",
+    "defaultMessage": "Услуги",
+    "message": "Послуги",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "SideNav.Content",
+    "defaultMessage": "Контент",
+    "message": "Контент",
+    "files": [
+      "src/components/SideNav/sideNavMessages.js"
+    ]
+  },
+  {
+    "id": "SideNav.InGeneral",
+    "defaultMessage": "В целом",
+    "message": "В цілому",
+    "files": [
+      "src/components/SideNav/sideNavMessages.js"
+    ]
+  },
+  {
+    "id": "SideNav.Separatly",
+    "defaultMessage": "По отдельности",
+    "message": "Окремо",
+    "files": [
+      "src/components/SideNav/sideNavMessages.js"
+    ]
+  },
+  {
+    "id": "SideNav.ExportImport",
+    "defaultMessage": "Экспорт / Импорт",
+    "message": "Експорт / Імпорт",
+    "files": [
+      "src/components/SideNav/sideNavMessages.js"
+    ]
+  },
+  {
+    "id": "SideNav.DatabaseStatus",
+    "defaultMessage": "Состояние Базы данных",
+    "message": "Стан Бази даних",
+    "files": [
+      "src/components/SideNav/sideNavMessages.js"
+    ]
+  },
+  {
+    "id": "Article.ManagingArticles",
+    "defaultMessage": "Управление публикациями",
+    "message": "Управління публікаціями",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "SideNav.GeneralList",
+    "defaultMessage": "Общий список",
+    "message": "Загальний перелік",
+    "files": [
+      "src/components/SideNav/sideNavMessages.js"
+    ]
+  },
+  {
+    "id": "Params.copyright",
+    "defaultMessage": "Авторские права",
+    "message": "Авторські права",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.design",
+    "defaultMessage": "Промышленные образцы",
+    "message": "Промислові зразки",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.patent",
+    "defaultMessage": "Изобретения",
+    "message": "Винаходи",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.trademark",
+    "defaultMessage": "Торговые марки",
+    "message": "Торгівельні марки",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.createdFilterKey",
+    "defaultMessage": "Дате создания",
+    "message": "Датою створення",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.editedFilterKey",
+    "defaultMessage": "Дате редактирования",
+    "message": "Датою редагування",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.orderliness",
+    "defaultMessage": "Порядку",
+    "message": "Порядком",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "FormList.OrderedBy",
+    "defaultMessage": "Упорядочено по",
+    "message": "Впорядковано за",
+    "files": [
+      "src/components/thingForms/ThingFormList/formListMessages.js"
+    ]
+  },
+  {
+    "id": "Search.Hits",
+    "defaultMessage": "Результатов",
+    "message": "Результатів",
+    "files": [
+      "src/components/thingSearch/searchMessages.js"
+    ]
+  },
+  {
+    "id": "Search.SearchFor",
+    "defaultMessage": "Ищем",
+    "message": "Шукаємо",
+    "files": [
+      "src/components/thingSearch/searchMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.ExpandToFullPage",
+    "defaultMessage": "Развернуть на всю страницу",
+    "message": "Розгорнути на всю сторінку",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "Home.ProtectionOfIntellectualPropertyInUkraine",
+    "defaultMessage": "Защита интеллектуальной собственности в Украине",
+    "message": "Захист інтелектуальної власності в Україні",
+    "files": [
+      "src/appConfig/routes/home2/components/Home/homeMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.Bold",
+    "defaultMessage": "Жирный",
+    "message": "Жирний",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.Italic",
+    "defaultMessage": "Курсив",
+    "message": "Курсив",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.Underlined",
+    "defaultMessage": "Подчеркнутый",
+    "message": "Підкреслений",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.Collapse",
+    "defaultMessage": "Свернуть",
+    "message": "Згорнути",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.linkAddress",
+    "defaultMessage": "адрес ссылки",
+    "message": "адреса посилання",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.Link",
+    "defaultMessage": "Ccылка",
+    "message": "Посилання",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.Picture",
+    "defaultMessage": "Картинка",
+    "message": "Картинка",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "PicturesSelect.LoadingImageFiles",
+    "defaultMessage": "Загружаются файлы картинок",
+    "message": "Завантажуються файли картинок",
+    "files": [
+      "src/components/picturesComponents/pictureMessages.js"
+    ]
+  },
+  {
+    "id": "Core.Close",
+    "defaultMessage": "Закрыть",
+    "message": "Закрити",
+    "files": [
+      "src/core/coreMessages.js"
+    ]
+  },
+  {
+    "id": "PicturesSelect.LoadingImageFilesError",
+    "defaultMessage": "Ошибка загрузки файлов картинок!",
+    "message": "Помилка завантаження файлов картинок!",
+    "files": [
+      "src/components/picturesComponents/pictureMessages.js"
+    ]
+  },
+  {
+    "id": "PicturesSelect.LoadMorePictures",
+    "defaultMessage": "Загрузить еще картинки",
+    "message": "Завантажити ще картинки",
+    "files": [
+      "src/components/picturesComponents/pictureMessages.js"
+    ]
+  },
+  {
+    "id": "PicturesSelect.RemovePicture",
+    "defaultMessage": "Удалить картинку",
+    "message": "Видалити картинку",
+    "files": [
+      "src/components/picturesComponents/pictureMessages.js"
+    ]
+  },
+  {
+    "id": "Core.Edit",
+    "defaultMessage": "Редактировать",
+    "message": "Редагувати",
+    "files": [
+      "src/core/coreMessages.js"
+    ]
+  },
+  {
+    "id": "Core.Save",
+    "defaultMessage": "Сохранить",
+    "message": "Зберегти",
+    "files": [
+      "src/core/coreMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.CaptionINen",
+    "defaultMessage": "Подпись по английски",
+    "message": "Підпис англійською",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.CaptionINru",
+    "defaultMessage": "Подпись по русски",
+    "message": "Підпис російською",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.CaptionINuk",
+    "defaultMessage": "Подпись по украински",
+    "message": "Підпис українською",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "PicturesSelect.EditingPictureCaptions",
+    "defaultMessage": "Редактируем подписи к картинке",
+    "message": "Редагуємо підписи до картинки",
+    "files": [
+      "src/components/picturesComponents/pictureMessages.js"
+    ]
+  },
+  {
+    "id": "PicturesSelect.RemovingPicture",
+    "defaultMessage": "Удаляем картинку!",
+    "message": "Видаляємо картинку!",
+    "files": [
+      "src/components/picturesComponents/pictureMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.pictures",
+    "defaultMessage": "Картинки",
+    "message": "Картинки",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.PicturesSelection",
+    "defaultMessage": "Выбор картинок",
+    "message": "Вибір картинок",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.OrderedList",
+    "defaultMessage": "Нумерованный список",
+    "message": "Нумерований перелік",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.UnorderedList",
+    "defaultMessage": "Список",
+    "message": "Перелік",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.Caption",
+    "defaultMessage": "Подпись",
+    "message": "Підпис",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.slugAsEmptyFieldAlreadyTaken",
+    "defaultMessage": "Empty slug already taken",
+    "message": "Порожня стрічка-ідентифікатор вже використовується",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "NotFound.PageNotExist",
+    "defaultMessage": "Страница которую вы пытаетесь просмотреть не существует",
+    "message": "Сторінка яку ви намагаєтеся переглянути не існує",
+    "files": [
+      "src/routes/notFound/components/NotFound/notFoundMessages.js"
+    ]
+  },
+  {
+    "id": "NotFound.TryToUseNavigationOrSearch",
+    "defaultMessage": "Воспользуйтесь боковой навигацией или поиском по сайту чтобы найти нужную вам страницу",
+    "message": "Скористайтеся боковою навігацією або пошуком по сайту щоб знайти потрібну вам сторінку",
+    "files": [
+      "src/routes/notFound/components/NotFound/notFoundMessages.js"
+    ]
+  },
+  {
+    "id": "Params.section",
+    "defaultMessage": "Раздел",
+    "message": "Розділ",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.subject",
+    "defaultMessage": "Тема",
+    "message": "Тема",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Article.BySection",
+    "defaultMessage": "По разделу",
+    "message": "Розділом"
+  },
+  {
+    "id": "Params.subjectFilterKey",
+    "defaultMessage": "По теме",
+    "message": "Темою",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.sectionFilterLabel",
+    "defaultMessage": "Отобрано по разделу",
+    "message": "Відібрано за розділом",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.subjectFilterLabel",
+    "defaultMessage": "Отобрано по теме",
+    "message": "Відібрано за темою",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.sectionFilterAll",
+    "defaultMessage": "Все разделы",
+    "message": "Усі розділи",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.subjectFilterAll",
+    "defaultMessage": "Все темы",
+    "message": "Усі теми",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "FormList.OrderingByDrugAndDrop",
+    "defaultMessage": "Упорядочивание перетягиванием",
+    "message": "Упорядкування перетягуванням",
+    "files": [
+      "src/components/thingForms/ThingFormList/formListMessages.js"
+    ]
+  },
+  {
+    "id": "Components.INenBriefly",
+    "defaultMessage": "англ",
+    "message": "англ"
+  },
+  {
+    "id": "Components.INruBriefly",
+    "defaultMessage": "рус",
+    "message": "рос"
+  },
+  {
+    "id": "App.RegistrationOnApp",
+    "defaultMessage": "Регистрация на Intellect.UA",
+    "message": "Реєстрація на Intellect.UA",
+    "files": [
+      "src/appConfig/messages/appMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InvalidDataFormat",
+    "defaultMessage": "Invalid data format",
+    "message": "Некоректний формат даних",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Import.InsertTextOrJsonFile",
+    "defaultMessage": "Вставьте текст с json-данными или перетяните json - файл",
+    "message": "Вставте текст з json-даними або перетягніть json - файл",
+    "files": [
+      "src/routes/thing/composeThingImportRoute/components/ThingsImport/importMessages.js"
+    ]
+  },
+  {
+    "id": "Import.PreparedExcerpts",
+    "defaultMessage": "подготовлено выборок",
+    "message": "підготовлено вибірок",
+    "files": [
+      "src/routes/thing/composeThingImportRoute/components/ThingsImport/importMessages.js"
+    ]
+  },
+  {
+    "id": "Article.ArticlesInJsonFormat",
+    "defaultMessage": "Публикации в json - формате",
+    "message": "Публікації в json - форматі",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.PreparedArticlesForImport",
+    "defaultMessage": "Подготовлено к импорту публикаций",
+    "message": "Підготовлено до імпорту публікацій",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.Article",
+    "defaultMessage": "Публикация",
+    "message": "Публікація",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InvalidI18nField",
+    "defaultMessage": "Invalid i18n field",
+    "message": "Неправильне i18n-поле",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InvalidParamField",
+    "defaultMessage": "Invalid param field",
+    "message": "Неправильне поле-довідник",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InvalidBooleanField",
+    "defaultMessage": "Invalid boolean field",
+    "message": "Неправильне лоигчне поле",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InvalidTextField",
+    "defaultMessage": "Invalid text field",
+    "message": "Неправильне текстове поле",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InvalidNumberField",
+    "defaultMessage": "Invalid number field",
+    "message": "Неправильне числове поле",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "DbStatus.Errors",
+    "defaultMessage": "Ошибок",
+    "message": "Помилок",
+    "files": [
+      "src/routes/thing/composeThingDBStatusRoute/components/ThingDBStatus/dbStatusMessages.js"
+    ]
+  },
+  {
+    "id": "DbStatus.Excerpts",
+    "defaultMessage": "Выборки",
+    "message": "Вибірки",
+    "files": [
+      "src/routes/thing/composeThingDBStatusRoute/components/ThingDBStatus/dbStatusMessages.js"
+    ]
+  },
+  {
+    "id": "DbStatus.FixErrors",
+    "defaultMessage": "Исправить ошибки",
+    "message": "Виправити помилки",
+    "files": [
+      "src/routes/thing/composeThingDBStatusRoute/components/ThingDBStatus/dbStatusMessages.js"
+    ]
+  },
+  {
+    "id": "DbStatus.TextIndexes",
+    "defaultMessage": "Текстовые индексы",
+    "message": "Текстові індекси",
+    "files": [
+      "src/routes/thing/composeThingDBStatusRoute/components/ThingDBStatus/dbStatusMessages.js"
+    ]
+  },
+  {
+    "id": "Service.AddTheService",
+    "defaultMessage": "Добавить услугу",
+    "message": "Додати послугу",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.DeleteTheService",
+    "defaultMessage": "Удалить услугу",
+    "message": "Видалити послугу",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.DeletingTheService",
+    "defaultMessage": "Удаление услуги",
+    "message": "Видалення послуги",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.EditingTheService",
+    "defaultMessage": "Редактирование услуги",
+    "message": "Редагування послуги",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.EditingTheServiceRichText",
+    "defaultMessage": "Редактирование контента услуги",
+    "message": "Редагування контента послуги",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.ExportOfServices",
+    "defaultMessage": "Экспорт услуг",
+    "message": "Експорт послуг",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.GoToListOfServices",
+    "defaultMessage": "К перечню услуг",
+    "message": "До переліку послуг",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.ImportOfServices",
+    "defaultMessage": "Импорт услуг",
+    "message": "Імпорт послуг",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.ListOfServices",
+    "defaultMessage": "Перечень услуг",
+    "message": "Перелік послуг",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.ManagingServices",
+    "defaultMessage": "Управление услугами",
+    "message": "Управління послугами",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.NewService",
+    "defaultMessage": "Новая услуга",
+    "message": "Нова послуга",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.PreparedServicesForImport",
+    "defaultMessage": "Подготовлено к импорту услуг",
+    "message": "Підготовлено до імпорту послуг",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.RecoverTheService",
+    "defaultMessage": "Восстановить услугу",
+    "message": "Відновити послугу",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.RecoveringTheService",
+    "defaultMessage": "Восстановление услуги",
+    "message": "Відновлення послуги",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.Service",
+    "defaultMessage": "Услуга",
+    "message": "Послуга",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.ServicesInJsonFormat",
+    "defaultMessage": "Услуги в json - формате",
+    "message": "Послуги в json - форматі",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.StatusOfServices",
+    "defaultMessage": "Состояние услуг",
+    "message": "Стан послуг",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.TheServiceDeleted",
+    "defaultMessage": "Услуга удалена!",
+    "message": "Послуга видалена!",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.specification",
+    "defaultMessage": "Спецификация",
+    "message": "Специфікація",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.features",
+    "defaultMessage": "Свойства",
+    "message": "Властивості",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.feature",
+    "defaultMessage": "Свойства",
+    "message": "Властивість",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.feeOfFeature",
+    "defaultMessage": "Стоимость свойства",
+    "message": "Вартість щодо властивості",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.taxOfFeature",
+    "defaultMessage": "Государственный сбор свойства",
+    "message": "Державний збір властивості",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.titleOfFeature",
+    "defaultMessage": "Название свойства",
+    "message": "Назва властивості",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "Core.Cancel",
+    "defaultMessage": "Отменить",
+    "message": "Скасувати",
+    "files": [
+      "src/core/coreMessages.js"
+    ]
+  },
+  {
+    "id": "Core.DoYouWantToLeaveTheForm",
+    "defaultMessage": "Внесенные изменения не сохранены. Хотите покинуть форму без сохранения?",
+    "message": "Внесені зміни не збережені. Бажаєте залишити форму без збереження?",
+    "files": [
+      "src/core/coreMessages.js"
+    ]
+  },
+  {
+    "id": "Core.LeavePage",
+    "defaultMessage": "Покинуть cтраницу",
+    "message": "Покинути сторінку",
+    "files": [
+      "src/core/coreMessages.js"
+    ]
+  },
+  {
+    "id": "Core.StayOnThePage",
+    "defaultMessage": "Остаться на странице",
+    "message": "Залишитися на сторінці",
+    "files": [
+      "src/core/coreMessages.js"
+    ]
+  },
+  {
+    "id": "Feature.AddNewFeature",
+    "defaultMessage": "Добавить новое свойство",
+    "message": "Додати нову властивість",
+    "files": [
+      "src/appConfig/Things/messages/featureMessages.js"
+    ]
+  },
+  {
+    "id": "Feature.NewFeature",
+    "defaultMessage": "Новое свойство",
+    "message": "Нова властивість",
+    "files": [
+      "src/appConfig/Things/messages/featureMessages.js"
+    ]
+  },
+  {
+    "id": "Feature.RemoveFeature",
+    "defaultMessage": "Удалить свойство",
+    "message": "Видалити властивість",
+    "files": [
+      "src/appConfig/Things/messages/featureMessages.js"
+    ]
+  },
+  {
+    "id": "Footer.Telephone",
+    "defaultMessage": "тел.",
+    "message": "тел.",
+    "files": [
+      "src/appConfig/messages/footerMessages.js"
+    ]
+  },
+  {
+    "id": "NoJs.JavaScriptIsNotEnabled",
+    "defaultMessage": "JavaScript НЕ включен!",
+    "message": "JavaScript НЕ включено!",
+    "files": [
+      "src/routes/noJs/NoJs/noJsMessages.js"
+    ]
+  },
+  {
+    "id": "DbStatus.BackLinks",
+    "defaultMessage": "Обратные ссылки",
+    "message": "Зворотні посилання",
+    "files": [
+      "src/routes/thing/composeThingDBStatusRoute/components/ThingDBStatus/dbStatusMessages.js"
+    ]
+  },
+  {
+    "id": "Header.BackLinks",
+    "defaultMessage": "Обратные ссылки",
+    "message": "Зворотні посилання",
+    "files": [
+      "src/components/Header2/headerMessages.js"
+    ]
+  },
+  {
+    "id": "Article.BackLinksOfTheArticle",
+    "defaultMessage": "Обратные ссылки на публикацию",
+    "message": "Зворотні посилання на публікацію",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Service.BackLinksOfTheService",
+    "defaultMessage": "Обратные ссылки на услугу",
+    "message": "Зворотні посилання на послугу",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Params.ArticleType",
+    "defaultMessage": "Публикация",
+    "message": "Публікація",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.ServiceType",
+    "defaultMessage": "Услуга",
+    "message": "Послуга",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.__typename",
+    "defaultMessage": "Сущность",
+    "message": "Сутність",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.__typenameFilterAll",
+    "defaultMessage": "Все сущности",
+    "message": "Всі сутності",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.__typenameFilterLabel",
+    "defaultMessage": "Отобрано по сущности",
+    "message": "Відібрано по сутності",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.FailureOfDataAdding",
+    "defaultMessage": "Failure of data adding",
+    "message": "Помилка додавання даних",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.FailureOfDataDeleting",
+    "defaultMessage": "Failure of data deleting",
+    "message": "Помилка видалення даних",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.FailureOfDataRecovering",
+    "defaultMessage": "Failure of data recovering",
+    "message": "Помилка відновлення даних",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.FailureOfDataUpdating",
+    "defaultMessage": "Failure of data updating",
+    "message": "Помилка оновлення даних",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  }
+]

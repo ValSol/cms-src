@@ -1,0 +1,6 @@
+{
+  "name": "PicturesSelectField",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./PicturesSelectField.js"
+}

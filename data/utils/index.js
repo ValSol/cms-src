@@ -1,0 +1,21 @@
+import _compareExcerpts from './compareExcerpts';
+import _compareTextIndexes from './compareTextIndexes';
+import _compareThings from './compareThings';
+import _composeBulkWriteArgs from './composeBulkWriteArgs';
+import _composeFieldsForThingOrSubDocument from './composeFieldsForThingOrSubDocument';
+import _composeTypeName from './composeTypeName';
+import _getLinksForAddAndRemove from './getLinksForAddAndRemove';
+import _getLinksFromFields from './getLinksFromFields';
+import _getThingCollectionsFromDb from './getThingCollectionsFromDb';
+import _resolveThingsStatus from './resolveThingsStatus';
+
+export const compareExcerpts = _compareExcerpts;
+export const compareTextIndexes = _compareTextIndexes;
+export const compareThings = _compareThings;
+export const composeBulkWriteArgs = _composeBulkWriteArgs;
+export const composeFieldsForThingOrSubDocument = _composeFieldsForThingOrSubDocument;
+export const composeTypeName = _composeTypeName;
+export const getLinksForAddAndRemove = _getLinksForAddAndRemove;
+export const getLinksFromFields = _getLinksFromFields;
+export const getThingCollectionsFromDb = _getThingCollectionsFromDb;
+export const resolveThingsStatus = _resolveThingsStatus;

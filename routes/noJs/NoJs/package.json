@@ -1,0 +1,6 @@
+{
+  "name": "NoJs",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./NoJs.js"
+}

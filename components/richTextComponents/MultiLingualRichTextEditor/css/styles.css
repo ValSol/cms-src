@@ -1,0 +1,4 @@
+:global(.public-DraftEditorPlaceholder-inner) {
+  position: absolute;
+  color: #aaa;
+}

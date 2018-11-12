@@ -1,0 +1,1407 @@
+[
+  {
+    "id": "Lang.CurrentLanguage",
+    "defaultMessage": "Язык: Русский",
+    "message": "Язык: Русский",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.enINen",
+    "defaultMessage": "Английский (English)",
+    "message": "English (Английский)",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.ruINru",
+    "defaultMessage": "Русский",
+    "message": "Русский",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.ukINuk",
+    "defaultMessage": "Украинский (Українська)",
+    "message": "Українська (Украинский)",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Header.Search",
+    "defaultMessage": "Поиск",
+    "message": "Поиск",
+    "files": [
+      "src/components/Header2/headerMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.SignIn",
+    "defaultMessage": "Вход",
+    "message": "Вход",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.SignUp",
+    "defaultMessage": "Регистрация",
+    "message": "Регистрация",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Article.EditingTheArticleRichText",
+    "defaultMessage": "Редактирование контента публикации",
+    "message": "Редактирование контента публикации",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.NewArticle",
+    "defaultMessage": "Новая публикация",
+    "message": "Новая публикация",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.RecoveringTheArticle",
+    "defaultMessage": "Восстановление публикации",
+    "message": "Восстановление публикации",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.ListOfArticles",
+    "defaultMessage": "Перечень публикаций",
+    "message": "Перечень публикаций",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.ExportOfArticles",
+    "defaultMessage": "Экспорт публикаций",
+    "message": "Экспорт публикаций",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.ImportOfArticles",
+    "defaultMessage": "Импорт публикаций",
+    "message": "Импорт публикаций",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.StatusOfArticles",
+    "defaultMessage": "Состояние публикаций",
+    "message": "Состояние публикаций",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.Email",
+    "defaultMessage": "Электронный адрес",
+    "message": "Электронный адрес",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.Password",
+    "defaultMessage": "Пароль",
+    "message": "Пароль",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.Password2",
+    "defaultMessage": "Пароль повторно",
+    "message": "Пароль повторно",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.Enter",
+    "defaultMessage": "Войти",
+    "message": "Войти",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.GoToTheEntrance",
+    "defaultMessage": "Перейти на вход",
+    "message": "Перейти на вход",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.GoToTheRegistration",
+    "defaultMessage": "Перейти к регистрации",
+    "message": "Перейти к регистрации",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.Register",
+    "defaultMessage": "Зарегистрировать",
+    "message": "Зарегистрировать",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.TheEntranceToTheControlPanel",
+    "defaultMessage": "Вход в панель управления",
+    "message": "Вход в панель управления",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.DataProcessingFailure",
+    "defaultMessage": "Data processing failure",
+    "message": "Ошибка обработки данных",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.EmailAlreadyTaken",
+    "defaultMessage": "Email already taken",
+    "message": "Электронный адрес уже используется",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.FieldsMustMatch",
+    "defaultMessage": "Fields must match",
+    "message": "Поля должны совпадать",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InternetConnectionError",
+    "defaultMessage": "Internet connection error",
+    "message": "Ошибка сети",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InvalidEmail",
+    "defaultMessage": "Invalid email",
+    "message": "Неверный адрес электронной почты",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.RequiredField",
+    "defaultMessage": "Required field",
+    "message": "Обязательное поле",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.FailureOfSignin",
+    "defaultMessage": "Failure of signin",
+    "message": "Неправильный пароль или адрес электронной почты",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.FailureOfSignup",
+    "defaultMessage": "Failure of signup",
+    "message": "Ошибка регистрации",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Article.DeletingTheArticle",
+    "defaultMessage": "Удаление публикации",
+    "message": "Удаление публикации",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.EditingTheArticle",
+    "defaultMessage": "Редактирование публикации",
+    "message": "Редактирование публикации",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.TheArticleDeleted",
+    "defaultMessage": "Публикация удалена!",
+    "message": "Публикация удалена!",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.AddTheArticle",
+    "defaultMessage": "Добавить публикацию",
+    "message": "Добавить публикацию",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.DeleteTheArticle",
+    "defaultMessage": "Удалить публикацию",
+    "message": "Удалить публикацию",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.RecoverTheArticle",
+    "defaultMessage": "Восстановить публикацию",
+    "message": "Восстановить публикацию",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Core.SaveChanges",
+    "defaultMessage": "Сохранить изменения",
+    "message": "Сохранить изменения",
+    "files": [
+      "src/core/coreMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.content",
+    "defaultMessage": "Содержание",
+    "message": "Содержание",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "Article.GoToListOfArticles",
+    "defaultMessage": "К перечню публикаций",
+    "message": "К перечню публикаций",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.slug",
+    "defaultMessage": "Строка-идентификатор",
+    "message": "Строка-идентификатор",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.title",
+    "defaultMessage": "Заголовок",
+    "message": "Заголовок",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.shortTitle",
+    "defaultMessage": "Заголовок кратко",
+    "message": "Заголовок кратко",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.INen",
+    "defaultMessage": "По английски",
+    "message": "По английски",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.INru",
+    "defaultMessage": "По русски",
+    "message": "По русски",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.INuk",
+    "defaultMessage": "По украински",
+    "message": "По украински",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.INenBriefly",
+    "defaultMessage": "англ",
+    "message": "англ",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.INruBriefly",
+    "defaultMessage": "рус",
+    "message": "рус",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.INukBriefly",
+    "defaultMessage": "укр",
+    "message": "укр",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InvalidCharacters",
+    "defaultMessage": "Invalid characters",
+    "message": "Недопустимые символы",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Sign.Signout",
+    "defaultMessage": "Sing Out",
+    "message": "Выйти",
+    "files": [
+      "src/routes/user/userRouteMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.slugAsEmptyFieldAlreadyTaken",
+    "defaultMessage": "Empty slug already taken",
+    "message": "Пустая строка-идентификатор уже используется",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.slugAlreadyTaken",
+    "defaultMessage": "Slug already taken",
+    "message": "Строка-идентификатор уже используется",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Header.Editing",
+    "defaultMessage": "Редактирование",
+    "message": "Редактирование",
+    "files": [
+      "src/components/Header2/headerMessages.js"
+    ]
+  },
+  {
+    "id": "Header.Deleting",
+    "defaultMessage": "Удаление",
+    "message": "Удаление",
+    "files": [
+      "src/components/Header2/headerMessages.js"
+    ]
+  },
+  {
+    "id": "Header.Recovering",
+    "defaultMessage": "Восстановление",
+    "message": "Восстановление",
+    "files": [
+      "src/components/Header2/headerMessages.js"
+    ]
+  },
+  {
+    "id": "Header.Preview",
+    "defaultMessage": "Предпросмотр",
+    "message": "Предпросмотр",
+    "files": [
+      "src/components/Header2/headerMessages.js"
+    ]
+  },
+  {
+    "id": "Header.Export",
+    "defaultMessage": "Экспорт",
+    "message": "Экспорт",
+    "files": [
+      "src/components/Header2/headerMessages.js"
+    ]
+  },
+  {
+    "id": "Header.Import",
+    "defaultMessage": "Импорт",
+    "message": "Импорт",
+    "files": [
+      "src/components/Header2/headerMessages.js"
+    ]
+  },
+  {
+    "id": "Params.info",
+    "defaultMessage": "Информация",
+    "message": "Информация",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.services",
+    "defaultMessage": "Услуги",
+    "message": "Услуги",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "SideNav.Content",
+    "defaultMessage": "Контент",
+    "message": "Контент",
+    "files": [
+      "src/components/SideNav/sideNavMessages.js"
+    ]
+  },
+  {
+    "id": "SideNav.InGeneral",
+    "defaultMessage": "В целом",
+    "message": "В целом",
+    "files": [
+      "src/components/SideNav/sideNavMessages.js"
+    ]
+  },
+  {
+    "id": "SideNav.Separatly",
+    "defaultMessage": "По отдельности",
+    "message": "По отдельности",
+    "files": [
+      "src/components/SideNav/sideNavMessages.js"
+    ]
+  },
+  {
+    "id": "SideNav.ExportImport",
+    "defaultMessage": "Экспорт / Импорт",
+    "message": "Экспорт / Импорт",
+    "files": [
+      "src/components/SideNav/sideNavMessages.js"
+    ]
+  },
+  {
+    "id": "SideNav.DatabaseStatus",
+    "defaultMessage": "Состояние Базы данных",
+    "message": "Состояние Базы данных",
+    "files": [
+      "src/components/SideNav/sideNavMessages.js"
+    ]
+  },
+  {
+    "id": "Article.ManagingArticles",
+    "defaultMessage": "Управление публикациями",
+    "message": "Управление публикациями",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "SideNav.GeneralList",
+    "defaultMessage": "Общий список",
+    "message": "Общий список",
+    "files": [
+      "src/components/SideNav/sideNavMessages.js"
+    ]
+  },
+  {
+    "id": "Params.copyright",
+    "defaultMessage": "Авторские права",
+    "message": "Авторские права",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.design",
+    "defaultMessage": "Промышленные образцы",
+    "message": "Промышленные образцы",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.patent",
+    "defaultMessage": "Изобретения",
+    "message": "Изобретения",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.trademark",
+    "defaultMessage": "Торговые марки",
+    "message": "Торговые марки",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.createdFilterKey",
+    "defaultMessage": "Дате создания",
+    "message": "Дате создания",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.editedFilterKey",
+    "defaultMessage": "Дате редактирования",
+    "message": "Дате редактирования",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.orderliness",
+    "defaultMessage": "Порядку",
+    "message": "Порядку",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "FormList.OrderedBy",
+    "defaultMessage": "Упорядочено по",
+    "message": "Упорядочено по",
+    "files": [
+      "src/components/thingForms/ThingFormList/formListMessages.js"
+    ]
+  },
+  {
+    "id": "Search.Hits",
+    "defaultMessage": "Результатов",
+    "message": "Результатов",
+    "files": [
+      "src/components/thingSearch/searchMessages.js"
+    ]
+  },
+  {
+    "id": "Search.SearchFor",
+    "defaultMessage": "Ищем",
+    "message": "Ищем",
+    "files": [
+      "src/components/thingSearch/searchMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.ExpandToFullPage",
+    "defaultMessage": "Развернуть на всю страницу",
+    "message": "Развернуть на всю страницу",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "Home.ProtectionOfIntellectualPropertyInUkraine",
+    "defaultMessage": "Защита интеллектуальной собственности в Украине",
+    "message": "Защита интеллектуальной собственности в Украине",
+    "files": [
+      "src/appConfig/routes/home2/components/Home/homeMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.Bold",
+    "defaultMessage": "Жирный",
+    "message": "Жирный",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.Italic",
+    "defaultMessage": "Курсив",
+    "message": "Курсив",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.Underlined",
+    "defaultMessage": "Подчеркнутый",
+    "message": "Подчеркнутый",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.Collapse",
+    "defaultMessage": "Свернуть",
+    "message": "Свернуть",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.linkAddress",
+    "defaultMessage": "адрес ссылки",
+    "message": "адрес ссылки",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.Link",
+    "defaultMessage": "Ccылка",
+    "message": "Ccылка",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.Picture",
+    "defaultMessage": "Картинка",
+    "message": "Картинка",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "PicturesSelect.LoadingImageFiles",
+    "defaultMessage": "Загружаются файлы картинок",
+    "message": "Загружаются файлы картинок",
+    "files": [
+      "src/components/picturesComponents/pictureMessages.js"
+    ]
+  },
+  {
+    "id": "Core.Close",
+    "defaultMessage": "Закрыть",
+    "message": "Закрыть",
+    "files": [
+      "src/core/coreMessages.js"
+    ]
+  },
+  {
+    "id": "PicturesSelect.LoadingImageFilesError",
+    "defaultMessage": "Ошибка загрузки файлов картинок!",
+    "message": "Ошибка загрузки файлов картинок!",
+    "files": [
+      "src/components/picturesComponents/pictureMessages.js"
+    ]
+  },
+  {
+    "id": "PicturesSelect.LoadMorePictures",
+    "defaultMessage": "Загрузить еще картинки",
+    "message": "Загрузить еще картинки",
+    "files": [
+      "src/components/picturesComponents/pictureMessages.js"
+    ]
+  },
+  {
+    "id": "PicturesSelect.RemovePicture",
+    "defaultMessage": "Удалить картинку",
+    "message": "Удалить картинку",
+    "files": [
+      "src/components/picturesComponents/pictureMessages.js"
+    ]
+  },
+  {
+    "id": "Core.Edit",
+    "defaultMessage": "Редактировать",
+    "message": "Редактировать",
+    "files": [
+      "src/core/coreMessages.js"
+    ]
+  },
+  {
+    "id": "Core.Save",
+    "defaultMessage": "Сохранить",
+    "message": "Сохранить",
+    "files": [
+      "src/core/coreMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.CaptionINen",
+    "defaultMessage": "Подпись по английски",
+    "message": "Подпись по английски",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.CaptionINru",
+    "defaultMessage": "Подпись по русски",
+    "message": "Подпись по русски",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "Lang.CaptionINuk",
+    "defaultMessage": "Подпись по украински",
+    "message": "Подпись по украински",
+    "files": [
+      "src/appConfig/messages/langMessages.js"
+    ]
+  },
+  {
+    "id": "PicturesSelect.EditingPictureCaptions",
+    "defaultMessage": "Редактируем подписи к картинке",
+    "message": "Редактируем подписи к картинке",
+    "files": [
+      "src/components/picturesComponents/pictureMessages.js"
+    ]
+  },
+  {
+    "id": "PicturesSelect.RemovingPicture",
+    "defaultMessage": "Удаляем картинку!",
+    "message": "Удаляем картинку!",
+    "files": [
+      "src/components/picturesComponents/pictureMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.pictures",
+    "defaultMessage": "Картинки",
+    "message": "Картинки",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.PicturesSelection",
+    "defaultMessage": "Выбор картинок",
+    "message": "Выбор картинок",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.OrderedList",
+    "defaultMessage": "Нумерованный список",
+    "message": "Нумерованный список",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.UnorderedList",
+    "defaultMessage": "Список",
+    "message": "Список",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "RichText.Caption",
+    "defaultMessage": "Подпись",
+    "message": "Подпись",
+    "files": [
+      "src/components/richTextComponents/richTextMessages.js"
+    ]
+  },
+  {
+    "id": "NotFound.PageNotExist",
+    "defaultMessage": "Страница которую вы пытаетесь просмотреть не существует",
+    "message": "Страница которую вы пытаетесь просмотреть не существует",
+    "files": [
+      "src/routes/notFound/components/NotFound/notFoundMessages.js"
+    ]
+  },
+  {
+    "id": "NotFound.TryToUseNavigationOrSearch",
+    "defaultMessage": "Воспользуйтесь боковой навигацией или поиском по сайту чтобы найти нужную вам страницу",
+    "message": "Воспользуйтесь боковой навигацией или поиском по сайту чтобы найти нужную вам страницу",
+    "files": [
+      "src/routes/notFound/components/NotFound/notFoundMessages.js"
+    ]
+  },
+  {
+    "id": "Params.section",
+    "defaultMessage": "Раздел",
+    "message": "Раздел",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.subject",
+    "defaultMessage": "Тема",
+    "message": "Тема",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Article.BySection",
+    "defaultMessage": "По разделу",
+    "message": "Разделу"
+  },
+  {
+    "id": "Params.subjectFilterKey",
+    "defaultMessage": "По теме",
+    "message": "Теме",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.sectionFilterLabel",
+    "defaultMessage": "Отобрано по разделу",
+    "message": "Отобрано по разделу",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.subjectFilterLabel",
+    "defaultMessage": "Отобрано по теме",
+    "message": "Отобрано по теме",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.sectionFilterAll",
+    "defaultMessage": "Все разделы",
+    "message": "Все разделы",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.subjectFilterAll",
+    "defaultMessage": "Все темы",
+    "message": "Все темы",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "FormList.OrderingByDrugAndDrop",
+    "defaultMessage": "Упорядочивание перетягиванием",
+    "message": "Упорядочивание перетягиванием",
+    "files": [
+      "src/components/thingForms/ThingFormList/formListMessages.js"
+    ]
+  },
+  {
+    "id": "App.RegistrationOnApp",
+    "defaultMessage": "Регистрация на Intellect.UA",
+    "message": "Регистрация на Intellect.UA",
+    "files": [
+      "src/appConfig/messages/appMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InvalidDataFormat",
+    "defaultMessage": "Invalid data format",
+    "message": "Неверный формат данных",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Import.InsertTextOrJsonFile",
+    "defaultMessage": "Вставьте текст с json-данными или перетяните json - файл",
+    "message": "Вставьте текст с json-данными или перетяните json - файл",
+    "files": [
+      "src/routes/thing/composeThingImportRoute/components/ThingsImport/importMessages.js"
+    ]
+  },
+  {
+    "id": "Import.PreparedExcerpts",
+    "defaultMessage": "подготовлено выборок",
+    "message": "подготовлено выборок",
+    "files": [
+      "src/routes/thing/composeThingImportRoute/components/ThingsImport/importMessages.js"
+    ]
+  },
+  {
+    "id": "Article.ArticlesInJsonFormat",
+    "defaultMessage": "Публикации в json - формате",
+    "message": "Публикации в json - формате",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.PreparedArticlesForImport",
+    "defaultMessage": "Подготовлено к импорту публикаций",
+    "message": "Подготовлено к импорту публикаций",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Article.Article",
+    "defaultMessage": "Публикация",
+    "message": "Публикация",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InvalidI18nField",
+    "defaultMessage": "Invalid i18n field",
+    "message": "Неверное i18n-поле",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InvalidParamField",
+    "defaultMessage": "Invalid param field",
+    "message": "Неверное поле-справочник",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InvalidBooleanField",
+    "defaultMessage": "Invalid boolean field",
+    "message": "Неверное логическое поле",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InvalidTextField",
+    "defaultMessage": "Invalid text field",
+    "message": "Неверное текстовое поле",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.InvalidNumberField",
+    "defaultMessage": "Invalid number field",
+    "message": "Неверное числовое поле",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "DbStatus.Errors",
+    "defaultMessage": "Ошибок",
+    "message": "Ошибок",
+    "files": [
+      "src/routes/thing/composeThingDBStatusRoute/components/ThingDBStatus/dbStatusMessages.js"
+    ]
+  },
+  {
+    "id": "DbStatus.Excerpts",
+    "defaultMessage": "Выборки",
+    "message": "Выборки",
+    "files": [
+      "src/routes/thing/composeThingDBStatusRoute/components/ThingDBStatus/dbStatusMessages.js"
+    ]
+  },
+  {
+    "id": "DbStatus.FixErrors",
+    "defaultMessage": "Исправить ошибки",
+    "message": "Исправить ошибки",
+    "files": [
+      "src/routes/thing/composeThingDBStatusRoute/components/ThingDBStatus/dbStatusMessages.js"
+    ]
+  },
+  {
+    "id": "DbStatus.TextIndexes",
+    "defaultMessage": "Текстовые индексы",
+    "message": "Текстовые индексы",
+    "files": [
+      "src/routes/thing/composeThingDBStatusRoute/components/ThingDBStatus/dbStatusMessages.js"
+    ]
+  },
+  {
+    "id": "Service.AddTheService",
+    "defaultMessage": "Добавить услугу",
+    "message": "Добавить услугу",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.DeleteTheService",
+    "defaultMessage": "Удалить услугу",
+    "message": "Удалить услугу",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.DeletingTheService",
+    "defaultMessage": "Удаление услуги",
+    "message": "Удаление услуг",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.EditingTheService",
+    "defaultMessage": "Редактирование услуги",
+    "message": "Редактирование услуги",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.EditingTheServiceRichText",
+    "defaultMessage": "Редактирование контента услуги",
+    "message": "Редактирование контента услуги",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.ExportOfServices",
+    "defaultMessage": "Экспорт услуг",
+    "message": "Экспорт услуг",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.GoToListOfServices",
+    "defaultMessage": "К перечню услуг",
+    "message": "К перечню услуг",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.ImportOfServices",
+    "defaultMessage": "Импорт услуг",
+    "message": "Импорт услуг",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.ListOfServices",
+    "defaultMessage": "Перечень услуг",
+    "message": "Перечень услуг",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.ManagingServices",
+    "defaultMessage": "Управление услугами",
+    "message": "Управление услугами",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.NewService",
+    "defaultMessage": "Новая услуга",
+    "message": "Новая услуга",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.PreparedServicesForImport",
+    "defaultMessage": "Подготовлено к импорту услуг",
+    "message": "Подготовлено к импорту услуг",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.RecoverTheService",
+    "defaultMessage": "Восстановить услугу",
+    "message": "Восстановить услугу",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.RecoveringTheService",
+    "defaultMessage": "Восстановление услуги",
+    "message": "Восстановление услуги",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.Service",
+    "defaultMessage": "Услуга",
+    "message": "Услуга",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.ServicesInJsonFormat",
+    "defaultMessage": "Услуги в json - формате",
+    "message": "Услуги в json - формате",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.StatusOfServices",
+    "defaultMessage": "Состояние услуг",
+    "message": "Состояние услуг",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Service.TheServiceDeleted",
+    "defaultMessage": "Услуга удалена!",
+    "message": "Услуга удалена!",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.specification",
+    "defaultMessage": "Спецификация",
+    "message": "Спецификация",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.features",
+    "defaultMessage": "Свойства",
+    "message": "Свойства",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.feature",
+    "defaultMessage": "Свойства",
+    "message": "Свойство",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.feeOfFeature",
+    "defaultMessage": "Стоимость свойства",
+    "message": "Стоимость свойства",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.taxOfFeature",
+    "defaultMessage": "Государственный сбор свойства",
+    "message": "Государственный сбор свойства",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "FieldNames.titleOfFeature",
+    "defaultMessage": "Название свойства",
+    "message": "Название свойства",
+    "files": [
+      "src/appConfig/messages/fieldNamesMessages.js"
+    ]
+  },
+  {
+    "id": "Core.Cancel",
+    "defaultMessage": "Отменить",
+    "message": "Отменить",
+    "files": [
+      "src/core/coreMessages.js"
+    ]
+  },
+  {
+    "id": "Core.DoYouWantToLeaveTheForm",
+    "defaultMessage": "Внесенные изменения не сохранены. Хотите покинуть форму без сохранения?",
+    "message": "Внесенные изменения не сохранены. Хотите покинуть форму без сохранения?",
+    "files": [
+      "src/core/coreMessages.js"
+    ]
+  },
+  {
+    "id": "Core.LeavePage",
+    "defaultMessage": "Покинуть cтраницу",
+    "message": "Покинуть cтраницу",
+    "files": [
+      "src/core/coreMessages.js"
+    ]
+  },
+  {
+    "id": "Core.StayOnThePage",
+    "defaultMessage": "Остаться на странице",
+    "message": "Остаться на странице",
+    "files": [
+      "src/core/coreMessages.js"
+    ]
+  },
+  {
+    "id": "Feature.AddNewFeature",
+    "defaultMessage": "Добавить новое свойство",
+    "message": "Добавить новое свойство",
+    "files": [
+      "src/appConfig/Things/messages/featureMessages.js"
+    ]
+  },
+  {
+    "id": "Feature.NewFeature",
+    "defaultMessage": "Новое свойство",
+    "message": "Новое свойство",
+    "files": [
+      "src/appConfig/Things/messages/featureMessages.js"
+    ]
+  },
+  {
+    "id": "Feature.RemoveFeature",
+    "defaultMessage": "Удалить свойство",
+    "message": "Удалить свойство",
+    "files": [
+      "src/appConfig/Things/messages/featureMessages.js"
+    ]
+  },
+  {
+    "id": "Footer.Telephone",
+    "defaultMessage": "тел.",
+    "message": "тел.",
+    "files": [
+      "src/appConfig/messages/footerMessages.js"
+    ]
+  },
+  {
+    "id": "NoJs.JavaScriptIsNotEnabled",
+    "defaultMessage": "JavaScript НЕ включен!",
+    "message": "JavaScript НЕ включен!",
+    "files": [
+      "src/routes/noJs/NoJs/noJsMessages.js"
+    ]
+  },
+  {
+    "id": "DbStatus.BackLinks",
+    "defaultMessage": "Обратные ссылки",
+    "message": "Обратные ссылки",
+    "files": [
+      "src/routes/thing/composeThingDBStatusRoute/components/ThingDBStatus/dbStatusMessages.js"
+    ]
+  },
+  {
+    "id": "Header.BackLinks",
+    "defaultMessage": "Обратные ссылки",
+    "message": "Обратные ссылки",
+    "files": [
+      "src/components/Header2/headerMessages.js"
+    ]
+  },
+  {
+    "id": "Article.BackLinksOfTheArticle",
+    "defaultMessage": "Обратные ссылки на публикацию",
+    "message": "Обратные ссылки на публикацию",
+    "files": [
+      "src/appConfig/Things/messages/articleMessages.js"
+    ]
+  },
+  {
+    "id": "Service.BackLinksOfTheService",
+    "defaultMessage": "Обратные ссылки на услугу",
+    "message": "Обратные ссылки на услугу",
+    "files": [
+      "src/appConfig/Things/messages/serviceMessages.js"
+    ]
+  },
+  {
+    "id": "Params.ArticleType",
+    "defaultMessage": "Публикация",
+    "message": "Публикация",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.ServiceType",
+    "defaultMessage": "Услуга",
+    "message": "Услуга",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.__typename",
+    "defaultMessage": "Сущность",
+    "message": "Сущность",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.__typenameFilterAll",
+    "defaultMessage": "Все сущности",
+    "message": "Все сущности",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Params.__typenameFilterLabel",
+    "defaultMessage": "Отобрано по сущности",
+    "message": "Отобрано по сущности",
+    "files": [
+      "src/appConfig/messages/paramsMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.FailureOfDataAdding",
+    "defaultMessage": "Failure of data adding",
+    "message": "Ошибка добавления данных",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.FailureOfDataDeleting",
+    "defaultMessage": "Failure of data deleting",
+    "message": "Ошибка удаления данных",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.FailureOfDataRecovering",
+    "defaultMessage": "Failure of data recovering",
+    "message": "Ошибка восстановления данных",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  },
+  {
+    "id": "Validation.FailureOfDataUpdating",
+    "defaultMessage": "Failure of data updating",
+    "message": "Ошибка обновления данных",
+    "files": [
+      "src/components/validationMessages.js"
+    ]
+  }
+]

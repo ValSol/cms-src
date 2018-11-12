@@ -1,0 +1,6 @@
+{
+  "name": "composeThingSideNavSection",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./composeThingSideNavSection.js"
+}
